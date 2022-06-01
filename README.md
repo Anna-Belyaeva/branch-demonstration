@@ -18,7 +18,10 @@
 
 Ќиже пример кода из нашего приложени€:
 
- p {
+```css
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+```
+ 
